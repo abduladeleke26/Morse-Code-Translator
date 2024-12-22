@@ -1,2 +1,2 @@
 # Morse-Code-Translator
-This will translate anything into morse code.
+This code will translate anything you type into morse code.
